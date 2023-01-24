@@ -1,0 +1,8 @@
+fastapi~=0.89.1
+keras~=2.10.0
+loguru~=0.5.3
+numpy~=1.23.2
+pandas~=1.5.2
+scikit_learn~=1.0.2
+uvicorn~=0.16.0
+tensorflow
